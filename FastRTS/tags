@@ -1,0 +1,860 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	447;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	450;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	453;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	456;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	460;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	462;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	464;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	468;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	471;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	474;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	479;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	482;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	485;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	490;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	493;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	496;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	499;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	502;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	505;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	508;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	511;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	514;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	517;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	522;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	525;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	528;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	531;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	534;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	537;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	540;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	432;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	435;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	438;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	441;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	445;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	447;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	449;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	453;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	456;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	459;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	464;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	467;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	470;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	475;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	478;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	481;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	484;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	487;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	490;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	493;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	496;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	499;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	502;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	507;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	510;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	513;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	516;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	519;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	522;"	d	file:
+ARCHITECTURE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	525;"	d	file:
+BroadCastThresholdOnSite	Query.cpp	/^void Query::BroadCastThresholdOnSite(void *quadTree_log) {$/;"	f	class:Query
+BroadCastThresholdOnSite_Epoch	Query.cpp	/^void Query::BroadCastThresholdOnSite_Epoch(void* quadTree_log){$/;"	f	class:Query
+BucketElement	BucketElement.h	/^class BucketElement {$/;"	c
+Buckets	Buckets.cpp	/^Buckets::Buckets() {$/;"	f	class:Buckets
+Buckets	Buckets.h	/^class Buckets {$/;"	c
+CArea	GloVars.h	/^inline double CArea(int* q_c,int* n_c,int dim_l,int l){$/;"	f
+CMAKE_BINARY_DIR	debug/Makefile	/^CMAKE_BINARY_DIR = \/home\/ZhangZhuo\/QNH\/debug$/;"	m
+CMAKE_COMMAND	debug/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	debug/Makefile	/^CMAKE_SOURCE_DIR = \/home\/ZhangZhuo\/QNH$/;"	m
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	108;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	115;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	129;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	144;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	151;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	159;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	164;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	171;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	174;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	183;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	186;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	189;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	192;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	207;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	222;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	229;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	243;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	253;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	271;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	280;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	294;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	311;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	314;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	64;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	70;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	76;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	94;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	151;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	171;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	183;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	223;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	237;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	251;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	269;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	278;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	296;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	299;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	70;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_INTERNAL	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	226;"	d	file:
+COMPILER_VERSION_INTERNAL	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	285;"	d	file:
+COMPILER_VERSION_INTERNAL	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	290;"	d	file:
+COMPILER_VERSION_INTERNAL	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+COMPILER_VERSION_INTERNAL	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	283;"	d	file:
+COMPILER_VERSION_INTERNAL	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	102;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	124;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	130;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	139;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	160;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	166;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	177;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	195;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	200;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	211;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	223;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	233;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	244;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	255;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	274;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	27;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	282;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	287;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	296;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	301;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	57;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	72;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	78;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	87;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	97;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	102;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	166;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	177;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	189;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	217;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	241;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	272;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	280;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	285;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	72;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	78;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	87;"	d	file:
+COMPILER_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	111;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	118;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	147;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	153;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	178;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	201;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	212;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	224;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	234;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	246;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	256;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	275;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	283;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	288;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	297;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	302;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	73;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	79;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	88;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	147;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	153;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	178;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	195;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	206;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	218;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	254;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	273;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	281;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	286;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	28;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	66;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	79;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	132;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	141;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	148;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	168;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	179;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	197;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	213;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	225;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	235;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	249;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	260;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	263;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	276;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	284;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	289;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	298;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	303;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	30;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	60;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	67;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	81;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	90;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	99;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	132;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	141;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	148;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	168;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	196;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	207;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	258;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	261;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	274;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	282;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	287;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	32;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	81;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	99;"	d	file:
+COMPILER_VERSION_TWEAK	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_TWEAK	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	219;"	d	file:
+COMPILER_VERSION_TWEAK	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	267;"	d	file:
+COMPILER_VERSION_TWEAK	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	36;"	d	file:
+COMPILER_VERSION_TWEAK	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_TWEAK	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	213;"	d	file:
+COMPILER_VERSION_TWEAK	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	265;"	d	file:
+COMPILER_VERSION_TWEAK	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+CXX_STD	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	608;"	d	file:
+CXX_STD	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	610;"	d	file:
+CXX_STD	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	613;"	d	file:
+CXX_STD	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	616;"	d	file:
+CXX_STD	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	618;"	d	file:
+C_DIALECT	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	623;"	d	file:
+C_DIALECT	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	625;"	d	file:
+C_DIALECT	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	628;"	d	file:
+C_DIALECT	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	630;"	d	file:
+C_DIALECT	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	632;"	d	file:
+CanonicalNodeCounter	TreeNode.cpp	/^double TreeNode::CanonicalNodeCounter(Query &query, void *quadTree_log,double err_max) {$/;"	f	class:TreeNode
+CheckEmptyByIndex	Buckets.cpp	/^bool Buckets::CheckEmptyByIndex(int index) {$/;"	f	class:Buckets
+CheckRebuild	QuadTreeLog.h	/^    inline bool CheckRebuild(){$/;"	f	class:QuadTreeLog
+ChildRange	TreeNode.h	/^    int* ChildRange(int code,int* thisRange,int dim_l) {$/;"	f	class:TreeNode
+CollectInfoFromSites	Query.cpp	/^double Query::CollectInfoFromSites(void *quadTree_log) {$/;"	f	class:Query
+CollectPt	Query.cpp	/^double Query::CollectPt(void *quadTree_log) {$/;"	f	class:Query
+CompElementLess	Rtree/RtreeNode.cpp	/^bool CompElementLess(char* _u1, char* _u2) {$/;"	f
+CompRtreeNodeLess	Rtree/RtreeNode.cpp	/^bool CompRtreeNodeLess(char* _u1, char* _u2) {$/;"	f
+CompareResult	LogGen_IO.cpp	/^void LogGen_IO::CompareResult() {$/;"	f	class:LogGen_IO
+ComputeSpaceConsumption	QuadTreeLog.cpp	/^long long QuadTreeLog::ComputeSpaceConsumption() {$/;"	f	class:QuadTreeLog
+ComputeThresholdOnSite	Query.cpp	/^void Query::ComputeThresholdOnSite() {$/;"	f	class:Query
+DEC	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	544;"	d	file:
+DEC	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	529;"	d	file:
+DIM_K	GloVars.cpp	/^int DIM_K=2;$/;"	v
+DeleteElement	Buckets.cpp	/^void Buckets::DeleteElement(int bucketIndex, int elementIndex,void *QuadTree_Log) {$/;"	f	class:Buckets
+DeletePreviousBucketElement	Query.cpp	/^void Query::DeletePreviousBucketElement(void *quadTree_log, int preThreshold_index, bool needFind) {$/;"	f	class:Query
+DeleteQuery	QuadTreeLog.cpp	/^bool QuadTreeLog::DeleteQuery(int queryID) {$/;"	f	class:QuadTreeLog
+DirectoryOfThisScript	.ycm_extra_conf.py	/^def DirectoryOfThisScript():$/;"	f
+EPO	GloVars.cpp	/^int EPO=20;$/;"	v
+EQUALS	debug/Makefile	/^EQUALS = =$/;"	m
+EXA_THE	GloVars.cpp	/^int EXA_THE=5000;$/;"	v
+EmptyBucket	Buckets.cpp	/^MyVector<BucketElement> Buckets::EmptyBucket;$/;"	m	class:Buckets	file:
+EmptyBucket	Buckets.h	/^	static MyVector<BucketElement> EmptyBucket;$/;"	m	class:Buckets
+EnterNextEpoch	Query.cpp	/^void Query::EnterNextEpoch(void *quadTree_log,bool needFind) {$/;"	f	class:Query
+EnterNextRound	Query.cpp	/^void Query::EnterNextRound(void *quadTree_log) {$/;"	f	class:Query
+FanoutRatio	Rtree/Rtree.cpp	/^const int FanoutRatio = 4;$/;"	v
+FindCanonicalNode_Epoch	TreeNode.cpp	/^double TreeNode::FindCanonicalNode_Epoch(Query &query, void *quadTree_log, MyVector<int> &nodeIndexList,double err_epo,double err_max) {$/;"	f	class:TreeNode
+FindCanonicalNode_Space	TreeNode.cpp	/^void TreeNode::FindCanonicalNode_Space(Query &query, void *quadTree_log, MyVector<int> &nodeIndexList, double err_max) {$/;"	f	class:TreeNode
+FlagsForFile	.ycm_c-c++_conf.py	/^def FlagsForFile( filename, **kwargs ):   $/;"	f
+FlagsForFile	.ycm_extra_conf.py	/^def FlagsForFile( filename, **kwargs ):$/;"	f
+GAMMA	GloVars.cpp	/^double GAMMA=0.05;$/;"	v
+GetCompilationInfoForFile	.ycm_extra_conf.py	/^def GetCompilationInfoForFile( filename ):$/;"	f
+GlobalRebuild	Query.cpp	/^void Query::GlobalRebuild(void *quadTree_log) {$/;"	f	class:Query
+GreaterThanByDist	Rtree/Rtree.cpp	/^struct GreaterThanByDist {$/;"	s	file:
+HEX	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	555;"	d	file:
+HEX	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	540;"	d	file:
+HeapElement	Rtree/Rtree.cpp	/^struct HeapElement {$/;"	s	file:
+ID_VOID_MAIN	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+INDEXABLEPOINT_H_	BasicDef/IndexablePoint.h	9;"	d
+IndexablePoint	BasicDef/IndexablePoint.cpp	/^IndexablePoint::IndexablePoint() {$/;"	f	class:IndexablePoint
+IndexablePoint	BasicDef/IndexablePoint.cpp	/^IndexablePoint::IndexablePoint(int _id, int* _coords) {$/;"	f	class:IndexablePoint
+IndexablePoint	BasicDef/IndexablePoint.h	/^class IndexablePoint {$/;"	c
+IndexablePointCoordsEqual	BasicDef/IndexablePoint.cpp	/^bool IndexablePointCoordsEqual(const IndexablePoint* p1, const IndexablePoint* p2, int dim) {$/;"	f
+IndexablePointCoordsSorter	BasicDef/IndexablePoint.h	/^	IndexablePointCoordsSorter(int _dim) :$/;"	f	struct:IndexablePointCoordsSorter
+IndexablePointCoordsSorter	BasicDef/IndexablePoint.h	/^struct IndexablePointCoordsSorter {$/;"	s
+IndexablePointFactory	BasicDef/IndexablePointFactory.cpp	/^IndexablePointFactory::IndexablePointFactory() {$/;"	f	class:IndexablePointFactory
+IndexablePointFactory	BasicDef/IndexablePointFactory.h	/^class IndexablePointFactory {$/;"	c
+InsertNewELement	Buckets.cpp	/^int Buckets::InsertNewELement(int i, BucketElement& e){$/;"	f	class:Buckets
+InsertPoint	QuadTreeLog.cpp	/^int QuadTreeLog::InsertPoint(int *coords, int weight, MyVector<int> &alertIDList) {$/;"	f	class:QuadTreeLog
+InsertPoint	QuadTreeLog.cpp	/^int QuadTreeLog::InsertPoint(int *coords,int weight, MyVector<int> &alertIDList,$/;"	f	class:QuadTreeLog
+InsertPoint	TreeNode.cpp	/^int TreeNode::InsertPoint(int weight, MyVector<int> &alertIDList,MyVector<int> &newEpochList, void *quadTree_Log) {$/;"	f	class:TreeNode
+InsertQuery	QuadTreeLog.cpp	/^void QuadTreeLog::InsertQuery(Query &query) {$/;"	f	class:QuadTreeLog
+InsertQuery	TreeNode.cpp	/^void TreeNode::InsertQuery(int queryIndex, void *quadTree_Log) {$/;"	f	class:TreeNode
+InsertQueryList	TreeNode.cpp	/^void TreeNode::InsertQueryList(MyVector<int> &queryIndexList, void *quadTree_Log) {$/;"	f	class:TreeNode
+IsHeaderFile	.ycm_extra_conf.py	/^def IsHeaderFile( filename ):$/;"	f
+LessThanByDist	Rtree/Rtree.cpp	/^struct LessThanByDist {$/;"	s	file:
+LogGen_IO	LogGen_IO.h	/^class LogGen_IO {$/;"	c
+MAX_D	GloVars.cpp	/^int MAX_D=1;$/;"	v
+MYINFTY	Rtree/RtreeNode.cpp	/^const long long MYINFTY = LLONG_MAX;$/;"	v
+MYLIB_BASICDEF_INDEXABLEPOINTFACTORY_H_	BasicDef/IndexablePointFactory.h	9;"	d
+MYLIB_RTREE_LPNORMTOOLS_H_	BasicDef/LpNormTools.h	9;"	d
+MakeRelativePathsInFlagsAbsolute	.ycm_extra_conf.py	/^def MakeRelativePathsInFlagsAbsolute( flags, working_directory ):$/;"	f
+MyHugeVector	MyHugeVector.h	/^MyHugeVector<T>::MyHugeVector() {$/;"	f	class:MyHugeVector
+MyHugeVector	MyHugeVector.h	/^class MyHugeVector {$/;"	c
+MyVector	MyVector.h	/^MyVector<T>::MyVector() {$/;"	f	class:MyVector
+MyVector	MyVector.h	/^class MyVector {$/;"	c
+NArea	GloVars.h	/^inline int NArea(int* coord){$/;"	f
+NodeDimSorter	Rtree/Rtree.cpp	/^	NodeDimSorter(int _dim, int _dimLev) :$/;"	f	struct:NodeDimSorter
+NodeDimSorter	Rtree/Rtree.cpp	/^struct NodeDimSorter {$/;"	s	file:
+PIN	GloVars.cpp	/^int PIN=0;$/;"	v
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	339;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	342;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	345;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	348;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	351;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	354;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	357;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	360;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	363;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	366;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	369;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	372;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	375;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	378;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	381;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	384;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	387;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	390;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	393;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	396;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	399;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	402;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	405;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	408;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	412;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	415;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	418;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	421;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	424;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	429;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	432;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	436;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	324;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	327;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	330;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	333;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	336;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	339;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	342;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	345;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	348;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	351;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	354;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	357;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	360;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	363;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	366;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	369;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	372;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	375;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	378;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	381;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	384;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	387;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	393;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	397;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	400;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	403;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	406;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	414;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	417;"	d	file:
+PLATFORM_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	421;"	d	file:
+PointDimSorter	BasicDef/IndexablePoint.h	/^	PointDimSorter(int _dim, int _dimLev) :$/;"	f	struct:PointDimSorter
+PointDimSorter	BasicDef/IndexablePoint.h	/^struct PointDimSorter {$/;"	s
+PointZorderSorter	Rtree/Rtree.cpp	/^	PointZorderSorter(int _dim) :$/;"	f	struct:PointZorderSorter
+PointZorderSorter	Rtree/Rtree.cpp	/^struct PointZorderSorter {$/;"	s	file:
+QArea	GloVars.h	/^inline int QArea(int* coord){$/;"	f
+QDN	GloVars.cpp	/^int QDN=0;$/;"	v
+QIN	GloVars.cpp	/^int QIN=0;$/;"	v
+QSN	GloVars.cpp	/^int QSN=0;$/;"	v
+QUADTREE_BUCKETELEMENT_H	BucketElement.h	6;"	d
+QUADTREE_BUCKETS_H	Buckets.h	6;"	d
+QUADTREE_GLOVARS_H	GloVars.h	6;"	d
+QUADTREE_LOGGEN_IO_H	LogGen_IO.h	6;"	d
+QUADTREE_MYHUGEVECTOR_H	MyHugeVector.h	6;"	d
+QUADTREE_MYVECTOR_H	MyVector.h	6;"	d
+QUADTREE_QUADTREELOG_H	QuadTreeLog.h	6;"	d
+QUADTREE_QUERY_H	Query.h	6;"	d
+QUADTREE_TREENODE_H	TreeNode.h	6;"	d
+Q_NUM	GloVars.cpp	/^int Q_NUM=2000000;$/;"	v
+QuadTreeLog	QuadTreeLog.cpp	/^QuadTreeLog::QuadTreeLog() {$/;"	f	class:QuadTreeLog
+QuadTreeLog	QuadTreeLog.h	/^class QuadTreeLog {$/;"	c
+QueElement	Rtree/Rtree.cpp	/^struct QueElement {$/;"	s	file:
+Query	Query.cpp	/^Query::Query(int id, int *range, int threshold) {$/;"	f	class:Query
+Query	Query.h	/^class Query {$/;"	c
+RECTANGLE_H_	BasicDef/Rectangle.h	9;"	d
+RECTANGLE_H_	Rtree/Rectangle.h	9;"	d
+RHO	GloVars.cpp	/^double RHO=0;$/;"	v
+RHO_E	GloVars.cpp	/^double RHO_E=0.9;$/;"	v
+RHO_S	GloVars.cpp	/^double RHO_S=0.5;$/;"	v
+RM	debug/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RTREENODE_H_	Rtree/RtreeNode.h	9;"	d
+RTREE_H_	Rtree/Rtree.h	9;"	d
+ReadLogFromFile	LogGen_IO.cpp	/^void LogGen_IO::ReadLogFromFile(MyVector<Query> &queryList) {$/;"	f	class:LogGen_IO
+ReadOpFromFile	LogGen_IO.cpp	/^void LogGen_IO::ReadOpFromFile(int increase, MyHugeVector<long long>& opList){$/;"	f	class:LogGen_IO
+ReceiveNotification	Query.cpp	/^int Query::ReceiveNotification(void *quadTree_log, double ptCntIncrease) {$/;"	f	class:Query
+Rectangle	BasicDef/Rectangle.cpp	/^Rectangle::Rectangle() {$/;"	f	class:Rectangle
+Rectangle	BasicDef/Rectangle.cpp	/^Rectangle::Rectangle(int* _valueList) {$/;"	f	class:Rectangle
+Rectangle	BasicDef/Rectangle.h	/^class Rectangle {$/;"	c
+Rectangle	Rtree/Rectangle.cpp	/^Rectangle::Rectangle() {$/;"	f	class:Rectangle
+Rectangle	Rtree/Rectangle.cpp	/^Rectangle::Rectangle(int* _valueList) {$/;"	f	class:Rectangle
+Rectangle	Rtree/Rectangle.h	/^class Rectangle {$/;"	c
+ReleaseSpace	Buckets.cpp	/^void Buckets::ReleaseSpace() {$/;"	f	class:Buckets
+ReleaseSpace	Query.cpp	/^void Query::ReleaseSpace() {$/;"	f	class:Query
+ReleaseSpace	TreeNode.cpp	/^void TreeNode::ReleaseSpace() {$/;"	f	class:TreeNode
+Rtree	Rtree/Rtree.cpp	/^Rtree::Rtree() {$/;"	f	class:Rtree
+Rtree	Rtree/Rtree.cpp	/^Rtree::Rtree(int _dim, int _branchFactor, int _leafCapacity) {$/;"	f	class:Rtree
+Rtree	Rtree/Rtree.h	/^class Rtree {$/;"	c
+RtreeNode	Rtree/RtreeNode.cpp	/^RtreeNode::RtreeNode() {$/;"	f	class:RtreeNode
+RtreeNode	Rtree/RtreeNode.h	/^class RtreeNode {$/;"	c
+SAVE_SPACE	GloVars.h	8;"	d
+SHELL	debug/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	209;"	d	file:
+SIMULATE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	21;"	d	file:
+SIMULATE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	231;"	d	file:
+SIMULATE_ID	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+SIMULATE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	203;"	d	file:
+SIMULATE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	file:
+SIMULATE_ID	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+SIMULATE_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	216;"	d	file:
+SIMULATE_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	238;"	d	file:
+SIMULATE_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+SIMULATE_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	44;"	d	file:
+SIMULATE_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+SIMULATE_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	210;"	d	file:
+SIMULATE_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+SIMULATE_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	40;"	d	file:
+SIMULATE_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+SIMULATE_VERSION_MAJOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+SIMULATE_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	217;"	d	file:
+SIMULATE_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+SIMULATE_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	41;"	d	file:
+SIMULATE_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	49;"	d	file:
+SIMULATE_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	211;"	d	file:
+SIMULATE_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+SIMULATE_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	41;"	d	file:
+SIMULATE_VERSION_MINOR	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	49;"	d	file:
+SIMULATE_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+SIMULATE_VERSION_PATCH	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+SMALL_SIZE	QuadTreeLog.h	18;"	d
+SOURCE_EXTENSIONS	.ycm_c-c++_conf.py	/^SOURCE_EXTENSIONS = [ $/;"	v
+SOURCE_EXTENSIONS	.ycm_extra_conf.py	/^SOURCE_EXTENSIONS = [ '.cpp', '.cxx', '.cc', '.c', '.m', '.mm' ]$/;"	v
+STRINGIFY	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	335;"	d	file:
+STRINGIFY	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	320;"	d	file:
+STRINGIFY_HELPER	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	334;"	d	file:
+STRINGIFY_HELPER	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	319;"	d	file:
+SUFFIXES	debug/Makefile	/^SUFFIXES =$/;"	m
+TreeNode	TreeNode.cpp	/^TreeNode::TreeNode() {$/;"	f	class:TreeNode
+TreeNode	TreeNode.cpp	/^TreeNode::TreeNode(int id, int *coord,int lev,int start) {$/;"	f	class:TreeNode
+TreeNode	TreeNode.h	/^class TreeNode {$/;"	c
+U	GloVars.cpp	/^int U=10000000;$/;"	v
+ValueCopy	BucketElement.h	/^    inline void ValueCopy(BucketElement& e) {$/;"	f	class:BucketElement
+VisitedNodeNum	Rtree/Rtree.cpp	/^long long VisitedNodeNum = 0;$/;"	v
+VisitedNodeNumList	Rtree/Rtree.cpp	/^long long* VisitedNodeNumList = new long long[20];$/;"	v
+WriteResultLineToFile	LogGen_IO.cpp	/^void LogGen_IO::WriteResultLineToFile(FILE *file, long long pID, MyVector<int> &alertIDList) {$/;"	f	class:LogGen_IO
+ZORDER_H_	Rtree/zorder.h	9;"	d
+_bucketList	QuadTreeLog.h	/^    MyVector<Buckets> _bucketList;$/;"	m	class:QuadTreeLog
+_indexInBucketList	QuadTreeLog.h	/^    MyHugeVector<int> _indexInBucketList;$/;"	m	class:QuadTreeLog
+_queryList	QuadTreeLog.h	/^    MyVector<Query> _queryList;$/;"	m	class:QuadTreeLog
+_treeNodeList	QuadTreeLog.h	/^    MyVector<TreeNode> _treeNodeList;$/;"	m	class:QuadTreeLog
+addChildNode	Rtree/RtreeNode.cpp	/^int RtreeNode::addChildNode(RtreeNode* _child, int _dim) {$/;"	f	class:RtreeNode
+addElement	Rtree/RtreeNode.cpp	/^int RtreeNode::addElement(IndexablePoint* _elem, int _dim) {$/;"	f	class:RtreeNode
+alertNum	QuadTreeLog.h	/^    int alertNum;$/;"	m	class:QuadTreeLog
+aliveNum	QuadTreeLog.h	/^    int aliveNum;$/;"	m	class:QuadTreeLog
+axisIndex	Rtree/RtreeNode.cpp	/^int axisIndex = 0;$/;"	v
+branchFactor	Rtree/Rtree.h	/^	int branchFactor;$/;"	m	class:Rtree
+buckList	Buckets.h	/^	MyVector<MyVector<BucketElement>> buckList;$/;"	m	class:Buckets
+buildRoot	QuadTreeLog.cpp	/^int QuadTreeLog::buildRoot(int lev,int start) {$/;"	f	class:QuadTreeLog
+capacity	MyHugeVector.h	/^unsigned long long MyHugeVector<T>::capacity() const {$/;"	f	class:MyHugeVector
+capacity	MyVector.h	/^unsigned int MyVector<T>::capacity() const {$/;"	f	class:MyVector
+checkStab	BasicDef/Rectangle.cpp	/^bool Rectangle::checkStab(int* _coords, int _dim) {$/;"	f	class:Rectangle
+checkStab	BasicDef/Rectangle.cpp	/^bool Rectangle::checkStab(vector<int>& coords, int _dim) {$/;"	f	class:Rectangle
+checkStab	Rtree/Rectangle.cpp	/^bool Rectangle::checkStab(vector<int>& coords, int _dim) {$/;"	f	class:Rectangle
+childIndexList	TreeNode.h	/^	int* childIndexList; \/\/size: CHD_N$/;"	m	class:TreeNode
+chooseBestChildNode	Rtree/RtreeNode.cpp	/^RtreeNode* RtreeNode::chooseBestChildNode(Rectangle& _rect, int _dim) {$/;"	f	class:RtreeNode
+clear	MyHugeVector.h	/^void MyHugeVector<T>::clear() {$/;"	f	class:MyHugeVector
+clear	MyVector.h	/^void MyVector<T>::clear() {$/;"	f	class:MyVector
+compPointByID	Rtree/test_Rtree.h	/^bool compPointByID(const IndexablePoint* p1, const IndexablePoint* p2) {$/;"	f
+compTestKNNEntry_GreaterThan	Rtree/test_Rtree.h	/^bool compTestKNNEntry_GreaterThan(const test_kNN_entry& e1, const test_kNN_entry& e2) {$/;"	f
+compZorderByCoord	Rtree/zorder.cpp	/^bool compZorderByCoord(const int* v1, const int* v2, int _dim) {$/;"	f
+compilation_database_folder	.ycm_extra_conf.py	/^compilation_database_folder = ''$/;"	v
+computeDiagonalLength	BasicDef/Rectangle.cpp	/^double Rectangle::computeDiagonalLength(int _dim) {$/;"	f	class:Rectangle
+computeDist	BasicDef/IndexablePoint.cpp	/^double IndexablePoint::computeDist(int* _coords, int _dim) {$/;"	f	class:IndexablePoint
+computeDotProduct	BasicDef/IndexablePoint.cpp	/^long long IndexablePoint::computeDotProduct(int* _coords, int _dim) {$/;"	f	class:IndexablePoint
+computeDotProduct	BasicDef/IndexablePoint.cpp	/^long long IndexablePoint::computeDotProduct(long long* _coords, int _dim) {$/;"	f	class:IndexablePoint
+computeGroupPerimeter	Rtree/RtreeNode.cpp	/^long long RtreeNode::computeGroupPerimeter(bool _isLeaf, char** _list, int _start, int _length, int _dim) {$/;"	f	class:RtreeNode
+computeMaxDotProduct	BasicDef/Rectangle.cpp	/^long long Rectangle::computeMaxDotProduct(const int* _coords, int _dim) {$/;"	f	class:Rectangle
+computeMinDistToCell	BasicDef/Rectangle.cpp	/^double Rectangle::computeMinDistToCell(const int* _coords, double _cellSideLen, int _dim) {$/;"	f	class:Rectangle
+computeMinDistToPt	BasicDef/Rectangle.cpp	/^double Rectangle::computeMinDistToPt(const int* _coords, int _dim) {$/;"	f	class:Rectangle
+computeMinDistToPt	Rtree/Rectangle.cpp	/^double Rectangle::computeMinDistToPt(const int* _coords, int _dim) {$/;"	f	class:Rectangle
+computeMinDistToRect	BasicDef/Rectangle.cpp	/^double Rectangle::computeMinDistToRect(const Rectangle& _rec, int _dim) {$/;"	f	class:Rectangle
+computeMinDotProduct	BasicDef/Rectangle.cpp	/^long long Rectangle::computeMinDotProduct(const int* _coords, int _dim) {$/;"	f	class:Rectangle
+computePerimeter	BasicDef/Rectangle.cpp	/^long long Rectangle::computePerimeter(int _dim) const {$/;"	f	class:Rectangle
+computePerimeter	Rtree/Rectangle.cpp	/^long long Rectangle::computePerimeter(int _dim) const {$/;"	f	class:Rectangle
+computeSqrDist	BasicDef/IndexablePoint.cpp	/^double IndexablePoint::computeSqrDist(int* _coords, int _dim) {$/;"	f	class:IndexablePoint
+const	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+constructEmptyTree	Rtree/Rtree.cpp	/^void Rtree::constructEmptyTree(int _dim, int _branchFactor, int _leafCapacity) {$/;"	f	class:Rtree
+constructLeafLevel_STR_SubRoutine	Rtree/Rtree.cpp	/^int Rtree::constructLeafLevel_STR_SubRoutine(IndexablePoint** _elementList, int _elemNum, int _dim, int _branchFactor, int _leafCapacity, MyVector<RtreeNode*>& _leafLevel,$/;"	f	class:Rtree
+constructNextLevel_STR_SubRoutine	Rtree/Rtree.cpp	/^int Rtree::constructNextLevel_STR_SubRoutine(RtreeNode** _nodeList, int _nodeNum, int _dim, int _branchFactor, int _leafCapacity, MyVector<RtreeNode*>& _nextLevel, int _dimLev) {$/;"	f	class:Rtree
+constructRtree	Rtree/Rtree.cpp	/^RtreeNode* Rtree::constructRtree(IndexablePoint** _elementList, int _elemNum, int _dim, int _branchFactor, int _leafCapacity) {$/;"	f	class:Rtree
+constructRtree_STR	Rtree/Rtree.cpp	/^RtreeNode* Rtree::constructRtree_STR(IndexablePoint** _elementList, int _elemNum, int _dim, int _branchFactor, int _leafCapacity) {$/;"	f	class:Rtree
+contain	BasicDef/Rectangle.cpp	/^bool Rectangle::contain(const Rectangle& _rec, int _dim) const {$/;"	f	class:Rectangle
+contain	Rtree/Rectangle.cpp	/^bool Rectangle::contain(const Rectangle& _rec, int _dim) const {$/;"	f	class:Rectangle
+coords	BasicDef/IndexablePoint.h	/^	int* coords;$/;"	m	class:IndexablePoint
+core_dump	GloVars.h	/^inline void core_dump(){$/;"	f
+countElementInSubtree	Rtree/Rtree.cpp	/^int Rtree::countElementInSubtree(RtreeNode* _subroot, int _subrootLevel) {$/;"	f	class:Rtree
+createPoint	BasicDef/IndexablePointFactory.cpp	/^IndexablePoint* IndexablePointFactory::createPoint() {$/;"	f	class:IndexablePointFactory
+createPoint	BasicDef/IndexablePointFactory.cpp	/^IndexablePoint* IndexablePointFactory::createPoint(int _id, int* _coords) {$/;"	f	class:IndexablePointFactory
+createPointList	BasicDef/IndexablePointFactory.cpp	/^IndexablePoint** IndexablePointFactory::createPointList(int _ptNum) {$/;"	f	class:IndexablePointFactory
+data	BucketElement.h	/^    char data[18];$/;"	m	class:BucketElement
+database	.ycm_extra_conf.py	/^  database = None$/;"	v
+database	.ycm_extra_conf.py	/^  database = ycm_core.CompilationDatabase( compilation_database_folder )$/;"	v
+delNum	QuadTreeLog.h	/^    int delNum;$/;"	m	class:QuadTreeLog
+deleteChildNode	Rtree/RtreeNode.cpp	/^int RtreeNode::deleteChildNode(RtreeNode* _child) {$/;"	f	class:RtreeNode
+deleteElement	Rtree/Rtree.cpp	/^int Rtree::deleteElement(IndexablePoint* _elem) {$/;"	f	class:Rtree
+deleteElement	Rtree/RtreeNode.cpp	/^int RtreeNode::deleteElement(IndexablePoint* _elem) {$/;"	f	class:RtreeNode
+deletePoint	BasicDef/IndexablePointFactory.cpp	/^void IndexablePointFactory::deletePoint(IndexablePoint*& _pt) {$/;"	f	class:IndexablePointFactory
+dim	BasicDef/IndexablePoint.h	/^	int dim;$/;"	m	struct:IndexablePointCoordsSorter
+dim	BasicDef/IndexablePoint.h	/^	int dim;$/;"	m	struct:PointDimSorter
+dim	Rtree/Rtree.cpp	/^	int dim;$/;"	m	struct:NodeDimSorter	file:
+dim	Rtree/Rtree.cpp	/^	int dim;$/;"	m	struct:PointZorderSorter	file:
+dim	Rtree/Rtree.h	/^	int dim;$/;"	m	class:Rtree
+dimIndex	BasicDef/IndexablePoint.h	/^	int dimIndex; \/\/ in [0, dim-1]$/;"	m	struct:PointDimSorter
+dimIndex	Rtree/Rtree.cpp	/^	int dimIndex; \/\/ in [0, dim -1]$/;"	m	struct:NodeDimSorter	file:
+dim_lev	TreeNode.h	/^	int dim_lev; \/\/usually 1 or 2. $/;"	m	class:TreeNode
+dim_start	TreeNode.h	/^	int dim_start; \/\/from 0 to DIM_K-1-dim_lev	$/;"	m	class:TreeNode
+dist	Rtree/Rtree.cpp	/^	double dist;$/;"	m	struct:HeapElement	file:
+dist_Linfty	BasicDef/LpNormTools.cpp	/^double dist_Linfty(int* _coords1, int* _coords2, int _dim) {$/;"	f
+elementList	MyHugeVector.h	/^    T* elementList;$/;"	m	class:MyHugeVector
+elementList	MyVector.h	/^    T* elementList;$/;"	m	class:MyVector
+elementNum	MyHugeVector.h	/^    unsigned long long elementNum;$/;"	m	class:MyHugeVector
+elementNum	MyVector.h	/^    unsigned int elementNum;$/;"	m	class:MyVector
+emptyBucketElement	TreeNode.cpp	/^BucketElement TreeNode::emptyBucketElement;$/;"	m	class:TreeNode	file:
+emptyBucketElement	TreeNode.h	/^    static BucketElement emptyBucketElement;$/;"	m	class:TreeNode
+emptyBuckets	TreeNode.cpp	/^Buckets TreeNode::emptyBuckets;$/;"	m	class:TreeNode	file:
+emptyBuckets	TreeNode.h	/^    static Buckets emptyBuckets;$/;"	m	class:TreeNode
+emptyTreeNode	QuadTreeLog.cpp	/^TreeNode QuadTreeLog::emptyTreeNode;$/;"	m	class:QuadTreeLog	file:
+emptyTreeNode	QuadTreeLog.h	/^    static TreeNode emptyTreeNode;$/;"	m	class:QuadTreeLog
+engine	main.cpp	/^static default_random_engine engine=default_random_engine(123);$/;"	v	file:
+enlarge	BasicDef/Rectangle.cpp	/^Rectangle& Rectangle::enlarge(const Rectangle& _rec, int _dim) {$/;"	f	class:Rectangle
+enlarge	MyHugeVector.h	/^void MyHugeVector<T>::enlarge() {$/;"	f	class:MyHugeVector
+enlarge	MyVector.h	/^void MyVector<T>::enlarge() {$/;"	f	class:MyVector
+enlarge	Rtree/Rectangle.cpp	/^Rectangle& Rectangle::enlarge(const Rectangle& _rec, int _dim) {$/;"	f	class:Rectangle
+epoch_n	Query.h	/^	int epoch_n; \/\/ ++when start a new epoch$/;"	m	class:Query
+evlCnt	Query.h	/^    double evlCnt; \/\/ init when start a new epoch$/;"	m	class:Query
+extendListSize	Buckets.cpp	/^void Buckets::extendListSize(int index){$/;"	f	class:Buckets
+file	GloVars.cpp	/^FILE* file=NULL;$/;"	v
+findKNN	Rtree/Rtree.cpp	/^void Rtree::findKNN(IndexablePoint* _elem, int _topK, IndexablePoint** _targetPlace, int& _resultCnt) {$/;"	f	class:Rtree
+findKNN_Linfty	Rtree/Rtree.cpp	/^void Rtree::findKNN_Linfty(IndexablePoint* _elem, int _topK, IndexablePoint** _targetPlace, int& _resultCnt) {$/;"	f	class:Rtree
+findKNN_LpNorm	Rtree/Rtree.cpp	/^void Rtree::findKNN_LpNorm(IndexablePoint* _elem, int _topK, IndexablePoint** _targetPlace, int& _resultCnt, double (*lpDist)(int*, int*, int),$/;"	f	class:Rtree
+findLeafForDel_SubRoutine	Rtree/Rtree.cpp	/^RtreeNode* Rtree::findLeafForDel_SubRoutine(RtreeNode* _subroot, int _subrootLevel, IndexablePoint* _elem, Rectangle& _elem_rect) {$/;"	f	class:Rtree
+findNN	Rtree/Rtree.cpp	/^IndexablePoint* Rtree::findNN(IndexablePoint* _elem) {$/;"	f	class:Rtree
+findNN_Linfty	Rtree/Rtree.cpp	/^IndexablePoint* Rtree::findNN_Linfty(IndexablePoint* _elem) {$/;"	f	class:Rtree
+findNN_LpNorm	Rtree/Rtree.cpp	/^IndexablePoint* Rtree::findNN_LpNorm(IndexablePoint* _elem, double (*lpDist)(int*, int*, int), double (*minDistRP)(Rectangle&, int*, int)) {$/;"	f	class:Rtree
+findPath	Rtree/Rtree.cpp	/^int Rtree::findPath(IndexablePoint* _pt, MyVector<RtreeNode*>& _targetPlace) {$/;"	f	class:Rtree
+findPath_SubRoutine	Rtree/Rtree.cpp	/^RtreeNode* Rtree::findPath_SubRoutine(RtreeNode* _subroot, int _subrootLevel, IndexablePoint* _elem, MyVector<RtreeNode*>& _targetPlace) {$/;"	f	class:Rtree
+flags	.ycm_c-c++_conf.py	/^flags = [$/;"	v
+flags	.ycm_extra_conf.py	/^flags = [$/;"	v
+generateRtreePlotFile	Rtree/Rtree.cpp	/^void Rtree::generateRtreePlotFile(char* _filename, int _targetLev) {$/;"	f	class:Rtree
+getCurrentTime	GloVars.cpp	/^double getCurrentTime() {$/;"	f
+getDim	Rtree/Rtree.cpp	/^int Rtree::getDim() {$/;"	f	class:Rtree
+getHeight	Rtree/Rtree.cpp	/^int Rtree::getHeight() {$/;"	f	class:Rtree
+getIndexInQuery	BucketElement.h	/^    inline int getIndexInQuery() {$/;"	f	class:BucketElement
+getLastCnt	BucketElement.h	/^    inline int getLastCnt() {$/;"	f	class:BucketElement
+getListPtr	Rtree/RtreeNode.h	/^	inline char** getListPtr() {$/;"	f	class:RtreeNode
+getListSize	Rtree/RtreeNode.h	/^	inline int getListSize() {$/;"	f	class:RtreeNode
+getQueryStartIndex	BucketElement.h	/^    inline long long getQueryStartIndex() {$/;"	f	class:BucketElement
+getRoot	QuadTreeLog.h	/^    inline TreeNode* getRoot() const{$/;"	f	class:QuadTreeLog
+get_list	MyHugeVector.h	/^T* MyHugeVector<T>::get_list() const {$/;"	f	class:MyHugeVector
+get_list	MyVector.h	/^T* MyVector<T>::get_list() const {$/;"	f	class:MyVector
+id	BasicDef/IndexablePoint.h	/^	int id;$/;"	m	class:IndexablePoint
+id	Query.h	/^    int id;$/;"	m	class:Query
+id_index_map	QuadTreeLog.h	/^    map<int,int> id_index_map;$/;"	m	class:QuadTreeLog
+ifContain	TreeNode.cpp	/^bool inline ifContain(const int *x, const int *y){$/;"	f
+ifDisjoint	TreeNode.cpp	/^bool inline ifDisjoint(const int* x, const int *y){$/;"	f
+info_arch	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v
+info_language_dialect_default	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version_internal	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v
+info_version_internal	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v
+init	QuadTreeLog.cpp	/^void QuadTreeLog::init(MyVector<Query> &queryList) {$/;"	f	class:QuadTreeLog
+init	TreeNode.cpp	/^void TreeNode::init(int id, int *coord,int lev,int start) {$/;"	f	class:TreeNode
+initialize	Rtree/Rtree.cpp	/^void Rtree::initialize(int _dim, int _branchFactor, int _leafCapacity) {$/;"	f	class:Rtree
+initialize	Rtree/RtreeNode.cpp	/^void RtreeNode::initialize(bool _isLeaf, int _dim, int _branchFactor, int _leafCapacity) {$/;"	f	class:RtreeNode
+insNum	QuadTreeLog.h	/^    int insNum;$/;"	m	class:QuadTreeLog
+insertElement	Rtree/Rtree.cpp	/^int Rtree::insertElement(IndexablePoint* _elem) {$/;"	f	class:Rtree
+insertElement_SubRoutine	Rtree/Rtree.cpp	/^int Rtree::insertElement_SubRoutine(RtreeNode* _subroot, int _subrootLevel, IndexablePoint* _elem, Rectangle& _elem_rect) {$/;"	f	class:Rtree
+insertNode	Rtree/Rtree.cpp	/^int Rtree::insertNode(RtreeNode* _toInsNode, int _targetLevel) {$/;"	f	class:Rtree
+insertNode_SubRoutine	Rtree/Rtree.cpp	/^void Rtree::insertNode_SubRoutine(RtreeNode* _subroot, int _subrootLevel, RtreeNode* _toInsNode, int _targetLevel) {$/;"	f	class:Rtree
+inside	BasicDef/Rectangle.cpp	/^bool Rectangle::inside(const Rectangle& _rec, int _dim) const {$/;"	f	class:Rectangle
+inside	Rtree/Rectangle.cpp	/^bool Rectangle::inside(const Rectangle& _rec, int _dim) const {$/;"	f	class:Rectangle
+intersect	BasicDef/Rectangle.cpp	/^bool Rectangle::intersect(const Rectangle& _rec, int _dim) const {$/;"	f	class:Rectangle
+intersect	Rtree/Rectangle.cpp	/^bool Rectangle::intersect(const Rectangle& _rec, int _dim) const {$/;"	f	class:Rectangle
+isValid	Rtree/Rtree.cpp	/^bool Rtree::isValid() {$/;"	f	class:Rtree
+lastQNum	QuadTreeLog.h	/^    int lastQNum;$/;"	m	class:QuadTreeLog
+leafCapacity	Rtree/Rtree.h	/^	int leafCapacity;$/;"	m	class:Rtree
+length	MyHugeVector.h	/^    unsigned long long length;$/;"	m	class:MyHugeVector
+length	MyVector.h	/^    unsigned int length;$/;"	m	class:MyVector
+lev	Rtree/Rtree.cpp	/^	int lev;$/;"	m	struct:HeapElement	file:
+lev	Rtree/Rtree.cpp	/^	int lev;$/;"	m	struct:QueElement	file:
+listPtr	Rtree/RtreeNode.h	/^	char** listPtr;$/;"	m	class:RtreeNode
+listSize	Buckets.cpp	/^int Buckets::listSize(){$/;"	f	class:Buckets
+listSize	Rtree/RtreeNode.h	/^	int listSize;$/;"	m	class:RtreeNode
+main	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	main.cpp	/^int main(int nargs, char **args) {$/;"	f
+max	GloVars.h	/^inline int max(int a,int b){$/;"	f
+maxDotProductReporting	Rtree/Rtree.cpp	/^IndexablePoint* Rtree::maxDotProductReporting(int* _coords, int _dim) {$/;"	f	class:Rtree
+mbr	Rtree/RtreeNode.h	/^	Rectangle mbr;$/;"	m	class:RtreeNode
+min	GloVars.h	/^inline int min(int a,int b){$/;"	f
+minDistRP_Linfty	BasicDef/LpNormTools.cpp	/^double minDistRP_Linfty(Rectangle& _rect, int* _coords, int _dim) {$/;"	f
+minDist_Linfty	BasicDef/LpNormTools.cpp	/^double minDist_Linfty(Rectangle& _rect1, Rectangle& _rect2, int _dim) {$/;"	f
+minDotProductReporting	Rtree/Rtree.cpp	/^IndexablePoint* Rtree::minDotProductReporting(int* _coords, int _dim) {$/;"	f	class:Rtree
+newEpochList	QuadTreeLog.cpp	/^MyVector<int> QuadTreeLog::newEpochList;$/;"	m	class:QuadTreeLog	file:
+newEpochList	QuadTreeLog.h	/^	static MyVector<int> newEpochList;$/;"	m	class:QuadTreeLog
+node	Rtree/Rtree.cpp	/^	RtreeNode* node;$/;"	m	struct:QueElement	file:
+nodeIndexList	Query.cpp	/^MyVector<int> Query::nodeIndexList;$/;"	m	class:Query	file:
+nodeIndexList	Query.h	/^    MyVector<int> nodeIndexList;$/;"	m	class:Query
+nodeIndexList	Query.h	/^    static MyVector<int> nodeIndexList;$/;"	m	class:Query
+obtainLeafList	Rtree/Rtree.cpp	/^void Rtree::obtainLeafList(MyVector<RtreeNode*>& _targetPlace) {$/;"	f	class:Rtree
+obtainLeafList_SubRoutine	Rtree/Rtree.cpp	/^void Rtree::obtainLeafList_SubRoutine(RtreeNode* _subroot, int _subrootLevel, MyVector<RtreeNode*>& _targetPlace) {$/;"	f	class:Rtree
+operator ()	BasicDef/IndexablePoint.h	/^	bool operator()(const IndexablePoint* p1, const IndexablePoint* p2) {$/;"	f	struct:IndexablePointCoordsSorter
+operator ()	BasicDef/IndexablePoint.h	/^	bool operator()(const IndexablePoint* p1, const IndexablePoint* p2) {$/;"	f	struct:PointDimSorter
+operator ()	Rtree/Rtree.cpp	/^	bool operator()(const HeapElement& _e1, const HeapElement& _e2) const {$/;"	f	struct:GreaterThanByDist
+operator ()	Rtree/Rtree.cpp	/^	bool operator()(const HeapElement& _e1, const HeapElement& _e2) const {$/;"	f	struct:LessThanByDist
+operator ()	Rtree/Rtree.cpp	/^	bool operator()(const IndexablePoint* p1, const IndexablePoint* p2) {$/;"	f	struct:PointZorderSorter
+operator ()	Rtree/Rtree.cpp	/^	bool operator()(const RtreeNode* node1, const RtreeNode* node2) {$/;"	f	struct:NodeDimSorter
+operator []	MyHugeVector.h	/^    T& operator[](unsigned long long i) const {$/;"	f	class:MyHugeVector
+operator []	MyVector.h	/^    T& operator[](unsigned int i) const {$/;"	f	class:MyVector
+overflowHandler	Rtree/Rtree.cpp	/^void Rtree::overflowHandler(RtreeNode* _overflowNode, RtreeNode* _toInsNode) {$/;"	f	class:Rtree
+p_cnt	Query.h	/^	double p_cnt; \/\/ unchange until global rebuil$/;"	m	class:Query
+parent	Rtree/RtreeNode.h	/^	RtreeNode* parent;$/;"	m	class:RtreeNode
+perimeterIncrement	BasicDef/Rectangle.cpp	/^long long Rectangle::perimeterIncrement(const Rectangle& _rec, int _dim) const {$/;"	f	class:Rectangle
+perimeterIncrement	Rtree/Rectangle.cpp	/^long long Rectangle::perimeterIncrement(const Rectangle& _rec, int _dim) const {$/;"	f	class:Rectangle
+pop_back	MyHugeVector.h	/^void MyHugeVector<T>::pop_back() {$/;"	f	class:MyHugeVector
+pop_back	MyVector.h	/^void MyVector<T>::pop_back() {$/;"	f	class:MyVector
+pow_2	GloVars.h	/^static int pow_2[30]={1	,$/;"	v
+pt	Rtree/test_Rtree.h	/^	IndexablePoint* pt;$/;"	m	struct:test_kNN_entry
+ptCnt	TreeNode.h	/^    int ptCnt;$/;"	m	class:TreeNode
+ptInsNum	GloVars.cpp	/^long long ptInsNum=0;$/;"	v
+ptr	Rtree/Rtree.cpp	/^	char* ptr;$/;"	m	struct:HeapElement	file:
+push_back	MyHugeVector.h	/^void MyHugeVector<T>::push_back(T const& _val) {$/;"	f	class:MyHugeVector
+push_back	MyVector.h	/^void MyVector<T>::push_back(T const& _val) {$/;"	f	class:MyVector
+qDelNum	GloVars.cpp	/^int qDelNum=0;$/;"	v
+qInsNum	GloVars.cpp	/^int qInsNum=0;$/;"	v
+qNumStart	GloVars.cpp	/^int qNumStart=0;$/;"	v
+qnxnto	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+random_point	main.cpp	/^void random_point(int* coord){$/;"	f
+random_range	main.cpp	/^int* random_range(){$/;"	f
+range	Query.h	/^    int *range;$/;"	m	class:Query
+range	TreeNode.h	/^    int* range; \/\/size of 3*dim$/;"	m	class:TreeNode
+rangeCntQuery	Rtree/Rtree.cpp	/^int Rtree::rangeCntQuery(IndexablePoint* _elem, double _radius) {$/;"	f	class:Rtree
+rangeCntQuery	Rtree/Rtree.cpp	/^int Rtree::rangeCntQuery(int* rect){$/;"	f	class:Rtree
+rangeCntQuery_Rect	Rtree/Rtree.cpp	/^int Rtree::rangeCntQuery_Rect(int* _range) {$/;"	f	class:Rtree
+rangeFarthestQuery	Rtree/Rtree.cpp	/^char* Rtree::rangeFarthestQuery(IndexablePoint* _elem, double _radius) {$/;"	f	class:Rtree
+rangeQuery	Rtree/Rtree.cpp	/^int Rtree::rangeQuery(IndexablePoint* _elem, double _radius, MyVector<IndexablePoint*>& _targetPlace) {$/;"	f	class:Rtree
+rangeQuery_Linfty	Rtree/Rtree.cpp	/^int Rtree::rangeQuery_Linfty(IndexablePoint* _elem, double _radius, MyVector<IndexablePoint*>& _targetPlace) {$/;"	f	class:Rtree
+rangeQuery_LpNorm	Rtree/Rtree.cpp	/^int Rtree::rangeQuery_LpNorm(IndexablePoint* _elem, double _radius, MyVector<IndexablePoint*>& _targetPlace, double (*lpDist)(int*, int*, int),$/;"	f	class:Rtree
+rebuild	QuadTreeLog.cpp	/^int QuadTreeLog::rebuild(MyVector<int> &alertIDList) {$/;"	f	class:QuadTreeLog
+releaseSpace	BasicDef/IndexablePoint.cpp	/^void IndexablePoint::releaseSpace() {$/;"	f	class:IndexablePoint
+releaseSpace	BasicDef/Rectangle.cpp	/^void Rectangle::releaseSpace() {$/;"	f	class:Rectangle
+releaseSpace	Rtree/Rectangle.cpp	/^void Rectangle::releaseSpace() {$/;"	f	class:Rectangle
+releaseSpace	Rtree/Rtree.cpp	/^void Rtree::releaseSpace() {$/;"	f	class:Rtree
+releaseSpace	Rtree/RtreeNode.cpp	/^void RtreeNode::releaseSpace() {$/;"	f	class:RtreeNode
+releaseSpace_SubRoutine	Rtree/Rtree.cpp	/^void Rtree::releaseSpace_SubRoutine(RtreeNode* _subroot, int _subrootLev) {$/;"	f	class:Rtree
+release_space	MyHugeVector.h	/^void MyHugeVector<T>::release_space() {$/;"	f	class:MyHugeVector
+release_space	MyVector.h	/^void MyVector<T>::release_space() {$/;"	f	class:MyVector
+reserve	MyHugeVector.h	/^void MyHugeVector<T>::reserve(unsigned long long len) {$/;"	f	class:MyHugeVector
+reserve	MyVector.h	/^void MyVector<T>::reserve(unsigned int len) {$/;"	f	class:MyVector
+resize	MyHugeVector.h	/^void MyHugeVector<T>::resize(unsigned long long targetSize) {$/;"	f	class:MyHugeVector
+resize	MyHugeVector.h	/^void MyHugeVector<T>::resize(unsigned long long targetSize, const T& _val) {$/;"	f	class:MyHugeVector
+resize	MyVector.h	/^void MyVector<T>::resize(unsigned int targetSize) {$/;"	f	class:MyVector
+resize	MyVector.h	/^void MyVector<T>::resize(unsigned int targetSize, const T& _val) {$/;"	f	class:MyVector
+rho_epoch	GloVars.cpp	/^double* rho_epoch=NULL;$/;"	v
+root	Rtree/Rtree.h	/^	RtreeNode* root; \/* Leaf nodes are at level-0 and elements are at level-(-1). *\/$/;"	m	class:Rtree
+rootLev	Rtree/Rtree.h	/^	int rootLev;$/;"	m	class:Rtree
+roundCnt	Query.h	/^    double roundCnt; \/\/ init when start a new round$/;"	m	class:Query
+rtreeNode_dim	Rtree/RtreeNode.cpp	/^int rtreeNode_dim = 2;$/;"	v
+secStructureIndex	TreeNode.h	/^    int secStructureIndex;$/;"	m	class:TreeNode
+setByPoint	BasicDef/Rectangle.cpp	/^void Rectangle::setByPoint(const int* _pointCoords, int _dim) {$/;"	f	class:Rectangle
+setByPoint	Rtree/Rectangle.cpp	/^void Rectangle::setByPoint(const int* _pointCoords, int _dim) {$/;"	f	class:Rectangle
+setByRectangle	BasicDef/Rectangle.cpp	/^void Rectangle::setByRectangle(const Rectangle& _rec, int _dim) {$/;"	f	class:Rectangle
+setByRectangle	Rtree/Rectangle.cpp	/^void Rectangle::setByRectangle(const Rectangle& _rec, int _dim) {$/;"	f	class:Rectangle
+setCoords	BasicDef/Rectangle.cpp	/^void Rectangle::setCoords(const int* _valueList, int _dim) {$/;"	f	class:Rectangle
+setCoords	Rtree/Rectangle.cpp	/^void Rectangle::setCoords(const int* _valueList, int _dim) {$/;"	f	class:Rectangle
+setIndexInQuery	BucketElement.h	/^    inline void setIndexInQuery(short indexInQuery) {$/;"	f	class:BucketElement
+setLastCnt	BucketElement.h	/^    inline void setLastCnt(int emitCnt) {$/;"	f	class:BucketElement
+setQueryStartIndex	BucketElement.h	/^    inline void setQueryStartIndex(long long queryStartIndex) {$/;"	f	class:BucketElement
+showArea	QuadTreeLog.cpp	/^void QuadTreeLog::showArea() {$/;"	f	class:QuadTreeLog
+showCoords	BasicDef/IndexablePoint.cpp	/^void IndexablePoint::showCoords(int _dim) {$/;"	f	class:IndexablePoint
+showRectangle	BasicDef/Rectangle.cpp	/^void Rectangle::showRectangle(int _dim) {$/;"	f	class:Rectangle
+showRectangle	Rtree/Rectangle.cpp	/^void Rectangle::showRectangle(int _dim) {$/;"	f	class:Rectangle
+shrinkToFit	Buckets.cpp	/^void Buckets::shrinkToFit(){$/;"	f	class:Buckets
+shrink_to_fit	MyHugeVector.h	/^void MyHugeVector<T>::shrink_to_fit() {$/;"	f	class:MyHugeVector
+shrink_to_fit	MyVector.h	/^void MyVector<T>::shrink_to_fit() {$/;"	f	class:MyVector
+siteNum	Query.h	/^    int siteNum;$/;"	m	class:Query
+size	MyHugeVector.h	/^unsigned long long MyHugeVector<T>::size() const {$/;"	f	class:MyHugeVector
+size	MyVector.h	/^unsigned int MyVector<T>::size() const {$/;"	f	class:MyVector
+sizeByIndex	Buckets.cpp	/^int Buckets::sizeByIndex(int i){$/;"	f	class:Buckets
+split	Rtree/RtreeNode.cpp	/^RtreeNode* RtreeNode::split(bool _isLeaf, char* _toInsPtr, int _dim, int _branchFactor, int _leafCapacity) {$/;"	f	class:RtreeNode
+stabChildIndex	TreeNode.cpp	/^int TreeNode::stabChildIndex(const int *coords, int d) const {$/;"	f	class:TreeNode
+startIndex	Query.h	/^    long long startIndex; \/\/ unchange until new epoch$/;"	m	class:Query
+stateWithRange_Linfty	BasicDef/LpNormTools.cpp	/^int stateWithRange_Linfty(Rectangle& _rect, int* _centerCoords, double _radius, int _dim) {$/;"	f
+stateWithSphere	BasicDef/Rectangle.cpp	/^int Rectangle::stateWithSphere(const int* _centerCoords, double _radius, int _dim) {$/;"	f	class:Rectangle
+stateWithSphere	Rtree/Rectangle.cpp	/^int Rectangle::stateWithSphere(const int* _centerCoords, double _radius, int _dim) {$/;"	f	class:Rectangle
+structureIndex	TreeNode.h	/^    int structureIndex;$/;"	m	class:TreeNode
+swap	BucketElement.h	/^    inline void swap(BucketElement& e) {$/;"	f	class:BucketElement
+swap	MyHugeVector.h	/^void MyHugeVector<T>::swap(MyHugeVector<T>& _list) {$/;"	f	class:MyHugeVector
+swap	MyVector.h	/^void MyVector<T>::swap(MyVector<T>& _list) {$/;"	f	class:MyVector
+tau	Query.h	/^    double tau;\/\/ unchange until global rebuild$/;"	m	class:Query
+testRtree_kNN_LpNorm	Rtree/test_Rtree.h	/^void testRtree_kNN_LpNorm(IndexablePoint** ptList, int ptNum, int dim) {$/;"	f
+testRtree_range_LpNorm	Rtree/test_Rtree.h	/^void testRtree_range_LpNorm(IndexablePoint** ptList, int ptNum, int dim) {$/;"	f
+test_kNN_entry	Rtree/test_Rtree.h	/^struct test_kNN_entry {$/;"	s
+threshold	Query.h	/^    double threshold; \/\/ unchange until new epoch$/;"	m	class:Query
+thresholdOnSite	Query.h	/^    double thresholdOnSite; $/;"	m	class:Query
+threshold_index	Query.h	/^    int threshold_index;$/;"	m	class:Query
+tim	GloVars.cpp	/^static struct timeval tim;$/;"	v	typeref:struct:timeval	file:
+total_ptCnt	TreeNode.h	/^	long long total_ptCnt;$/;"	m	class:TreeNode
+underflowHandler	Rtree/Rtree.cpp	/^void Rtree::underflowHandler(RtreeNode* _underflowNode, int _nodeLevel) {$/;"	f	class:Rtree
+valueList	BasicDef/Rectangle.h	/^	int* valueList;$/;"	m	class:Rectangle
+valueList	Rtree/Rectangle.h	/^	int* valueList;$/;"	m	class:Rectangle
+volatile	debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c	11;"	d	file:
+weight	Rtree/test_Rtree.h	/^	double weight;$/;"	m	struct:test_kNN_entry
+~Buckets	Buckets.cpp	/^Buckets::~Buckets() {$/;"	f	class:Buckets
+~IndexablePoint	BasicDef/IndexablePoint.cpp	/^IndexablePoint::~IndexablePoint() {$/;"	f	class:IndexablePoint
+~IndexablePointFactory	BasicDef/IndexablePointFactory.cpp	/^IndexablePointFactory::~IndexablePointFactory() {$/;"	f	class:IndexablePointFactory
+~MyHugeVector	MyHugeVector.h	/^MyHugeVector<T>::~MyHugeVector() {$/;"	f	class:MyHugeVector
+~MyVector	MyVector.h	/^MyVector<T>::~MyVector() {$/;"	f	class:MyVector
+~QuadTreeLog	QuadTreeLog.cpp	/^QuadTreeLog::~QuadTreeLog() {$/;"	f	class:QuadTreeLog
+~Rectangle	BasicDef/Rectangle.cpp	/^Rectangle::~Rectangle() {$/;"	f	class:Rectangle
+~Rectangle	Rtree/Rectangle.cpp	/^Rectangle::~Rectangle() {$/;"	f	class:Rectangle
+~Rtree	Rtree/Rtree.cpp	/^Rtree::~Rtree() {$/;"	f	class:Rtree
+~RtreeNode	Rtree/RtreeNode.cpp	/^RtreeNode::~RtreeNode() {$/;"	f	class:RtreeNode
+~TreeNode	TreeNode.cpp	/^TreeNode::~TreeNode() {$/;"	f	class:TreeNode
