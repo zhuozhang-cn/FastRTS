@@ -7,7 +7,7 @@
 class BucketElement {
 public:
     /*
-	 *  Here we use 26 bytes to store all the data member of HeapElement.
+	 *  Here we use 18 bytes to store all the data member of HeapElement.
 	 *  In the first 2 bytes, we store indexInQuery.
 	 *  In the second 8 bytes, we store queryStartIndex.
 	 *  In the last 8 bytes, we store emitCnt.
@@ -16,7 +16,6 @@ public:
 
 
     inline void setIndexInQuery(short indexInQuery) {
-//		memcpy(data + 3, (char*) &indexInQuery, 3);
         *((short*) (data)) = indexInQuery;
     }
 
