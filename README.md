@@ -40,7 +40,12 @@ About real data file:
 
 Please down load real data file from https://drive.google.com/file/d/19_7bgVfCUnaWDi85acDpHovp9J6yReDT/view?usp=sharing  and put the file in the current fold ./
 
-This file is obtained by preprocessing the transaction snapshot records of two stocks. Each line, the information includes: line_number, bid_bolume, bid_price_stock1, bid_price_stock2, average_price_stock1, average_price_stock2. 
+This file is obtained by preprocessing the transaction snapshot records of two stocks. Each line, the information includes: line_number, bid_bolume, bid_price_stock1, bid_price_stock2, average_price_stock1, average_price_stock2.   
+
+The original transaction snapshot data is here:  
+https://drive.google.com/file/d/19ZxP8mrtbY9rCrlxfK716AO-m36im50y/view?usp=sharing  
+https://drive.google.com/file/d/1kbMdPZ2lsQ31ueTzpE2OpiBhitZ4nV6J/view?usp=sharing  
+
 
 ## Part 3: Our Module
 
