@@ -19,7 +19,9 @@ Options:
 -w   {integer} mean value of weight of element  
 -d   {integer} dimension of data space  
 -real{0 or 1}  synthetic or real dataset  
--rf {string}  real data file location (optional)
+-rf {string}  real data file location (optional)  
+
+
 
 For more information, please refer to ./DataGenerator/start.sh  
 This bash script can generate command lines in batches.  
@@ -32,6 +34,13 @@ The format of generated file is as follows:
 ----op_id:2 insert_query_id query_range(2\*dim) threshold  
 ----op_id:3 delete_query_id  
 ----op_id:-1 the end of the file
+
+
+About real data file:
+
+Please down load real data file from https://drive.google.com/file/d/19_7bgVfCUnaWDi85acDpHovp9J6yReDT/view?usp=sharing  and put the file in the current fold ./
+
+This file is obtained by preprocessing the transaction snapshot records of two stocks. Each line, the information includes: line_number, bid_bolume, bid_price_stock1, bid_price_stock2, average_price_stock1, average_price_stock2. 
 
 ## Part 3: Our Module
 
