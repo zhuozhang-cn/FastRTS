@@ -1,7 +1,3 @@
-//
-// Created by 张卓 on 2021/2/26.
-//
-
 #ifndef QUADTREE_MYHUGEVECTOR_H
 #define QUADTREE_MYHUGEVECTOR_H
 
